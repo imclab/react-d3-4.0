@@ -31,6 +31,6 @@
     "babel-preset-react": "6.0.15",
     "eslint": "1.8.0",
     "eslint-plugin-react": "3.6.3",
-    "webpack": "1.12.8"
+    "webpack": "1.12.8",
   }
 }
