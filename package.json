@@ -17,9 +17,20 @@
   },
   "homepage": "https://github.com/sghall/react-d3-4.0#readme",
   "dependencies": {
-    "d3-arrays": "^0.4.0",
-    "d3-scale": "^0.1.5",
+    "d3-arrays": "0.4.0",
+    "d3-scale": "0.1.5",
     "d3-voronoi": "0.0.3",
-    "save": "^2.1.1"
+    "react": "0.14.3",
+    "react-dom": "0.14.3"
+  },
+  "devDependencies": {
+    "babel-core": "6.0.12",
+    "babel-eslint": "4.1.0",
+    "babel-loader": "6.0.0",
+    "babel-preset-es2015": "6.0.12",
+    "babel-preset-react": "6.0.15",
+    "eslint": "1.8.0",
+    "eslint-plugin-react": "3.6.3",
+    "webpack": "1.12.8"
   }
 }
