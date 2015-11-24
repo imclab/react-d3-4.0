@@ -12,4 +12,4 @@ export let App = React.createClass({
   }
 });
 
-render(<App />, document.getElementById('container'));
+render(<App/>, document.getElementById('container'));
