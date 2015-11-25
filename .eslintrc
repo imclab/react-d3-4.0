@@ -1,4 +1,13 @@
 {
+  "env": {
+    "browser": true
+  },
+   "plugins": [
+    "react"
+  ],
+  "ecmaFeatures": {
+    "jsx": true
+  },
   "parser": "babel-eslint",
   "rules": {
     "indent": [2, 2],
